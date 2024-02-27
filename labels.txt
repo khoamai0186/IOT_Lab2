@@ -1,0 +1,3 @@
+0 Glasses on
+1 Glasses off
+2 Nothing
